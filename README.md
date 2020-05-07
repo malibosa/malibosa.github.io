@@ -1,4 +1,4 @@
-# malibosa.github.io
+
 Hello, Im looking anyone could help me to fix an issue in my code, 
 its in index.html
 Problem is: (except terrible grammar) that the drop down hover doesnt work on phone screen
